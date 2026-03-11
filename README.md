@@ -93,13 +93,5 @@ We welcome contributions! To contribute:
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a Pull Request
 
----
 
-## **Contact**
-For any queries or collaboration, feel free to reach out:
-- **Email**: srikarjanjirala92@gmail.com
-- **GitHub**: [janjirala-srikar](https://github.com/janjirala-srikar)
-- **LinkedIn**: [srikar_janjirala](https://linkedin.com/in/srikar-janjirala)
-
-Happy Blogging! 🚀
 
